@@ -13,6 +13,14 @@ Welcome to my GitHub profile! I'm a passionate third-year student at XAMK. Curre
 **Database:** MongoDB, PostgreSQL  
 **Version Control:** Git  
 
+## ⭐ Personal Projects 
+- **[Jamming Project](https://hanhz2707jammingproject.surge.sh/)** - A playlist website use Spotify API for songs with React framework.
+- **[Calendar](https://hanhz2707.github.io/calendar-template/)** - A calendar with light and dark mode, build with HTML, CSS and JS.
+- **[RandomQuotes](https://hanhz2707.github.io/Quote_randon_project/#)** - A simple random quote generators, build with HTML, CSS and a little JS.
+
+
+
+
 ## 📫 Contact 
 
 Let's connect and explore opportunities to collaborate! 😉  
