@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm a passionate third-year student at XAMK. Curre
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hanhz2707?tab=repositories](https://github.com/Hanhz2707?tab=repositories)
 
+- 📑✨ Currently, i am focusing on finishing my career path in Codecademy Courses about Full-Stack Engineer , later on, i will build more personal projects.
+
 - ⚡ Facts :   **I'm quite extrovert but during Winter, i am introverted😥**
 
 ## 🔧 Languages and Tools
