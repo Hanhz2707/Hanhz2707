@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/huy-anh-pham-890b63226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://drive.google.com/file/d/1lVKApjcP_Q6uFzG586YPWHQJyWXsQJqV/view?usp=sharing" target="_blank">
+  <a href="https://hanhz.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR3h3a1mNAS58kepPJItaDCS_Pnq0i5kQS5DcPwgB1_k7GAyXRmDntvj5Js_aem_dVvt4qoofNqoZBaY9Piiqg#home" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
