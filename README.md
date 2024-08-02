@@ -40,13 +40,15 @@
 </p>
 
 <div align="center">
-   
-    
-- **[Jamming Project](https://hanhz2707jammingproject.surge.sh/)** - A playlist website use Spotify API for songs with React framework.
-    
 - **[Calendar](https://hanhz2707.github.io/calendar-template/)** - A calendar with light and dark mode, build with HTML, CSS and JS.
 
+- **[Admin Dashboard](https://github.com/Hanhz2707/admin)** - A simple admin dashboard.
+  
+- **[Jamming Project](https://hanhz2707jammingproject.surge.sh/)** - A playlist website use Spotify API for songs with React framework.
+    
 - **[RandomQuotes](https://hanhz2707.github.io/Quote_randon_project/#)** - A simple random quote generators, build with HTML, CSS and a little JS.
+
+
 
   
 </div>
