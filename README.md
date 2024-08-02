@@ -40,7 +40,7 @@
 </p>
 
 <div align="center">
-- **[Calendar](https://hanhz2707.github.io/calendar-template/)** - A calendar with light and dark mode, build with HTML, CSS and JS.
+
 
 - **[Admin Dashboard](https://github.com/Hanhz2707/admin)** - A simple admin dashboard.
   
