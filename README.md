@@ -42,16 +42,15 @@
     <img src="https://github.com/Hanhz2707/portfolio/blob/master/frontend_react/src/assets/giphy.gif" width="400" height="300">
 </p>
 
-<div align="center">
+<div align="left">
 
+- **[Game App](https://explore-game-lkwnlxv47-pham-huy-anhs-projects.vercel.app/)** - A web game app with dark mode that contains a library of different genres of games with critic score, platforms
 
-- **[Admin Dashboard](https://github.com/Hanhz2707/admin)** - A simple admin dashboard.
+- **[Admin Dashboard](https://github.com/Hanhz2707/admin)** - A simple admin dashboard that can see company's income, customers, feedbacks, employees
   
 - **[Jamming Project](https://hanhz2707jammingproject.surge.sh/)** - A playlist website use Spotify API for songs with React framework.
-
-- **[Calendar](https://hanhz2707.github.io/calendar-template/)** - A calendar.
     
-- **[RandomQuotes](https://hanhz2707.github.io/Quote_randon_project/#)** - A simple random quote generators, build with HTML, CSS and a little JS.
+
 
 
 
