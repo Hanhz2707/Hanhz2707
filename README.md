@@ -29,7 +29,7 @@
   <a href="https://hanhz.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR3h3a1mNAS58kepPJItaDCS_Pnq0i5kQS5DcPwgB1_k7GAyXRmDntvj5Js_aem_dVvt4qoofNqoZBaY9Piiqg#home" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://drive.google.com/file/d/1VScSMgp1gdOoq5m1LUBUrMzbcPZ_zRdO/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1DtwLxPGLRJaZeha-AG8hp_8Z6BhN1Loe/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/📝resume-a3aebf?style=for-the-badge&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
