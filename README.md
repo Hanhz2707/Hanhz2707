@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hanhz!;" />
 </h1>
 
-<h3 align="center">I'm a Full-Stack Developer</h3>
+<h3 align="center">I'm a Software Developer</h3>
 
 <br/>
 
@@ -13,7 +13,7 @@
 
  🌍 Currently, I'm based in Finland
  
- 🔭 I’m currently working as an internship for [Metatavu](https://metatavu.fi/) in Mikkeli, Finland 
+ 🔭 I’m working as a junior software developer intern for [Metatavu](https://metatavu.fi/) in Mikkeli, Finland 
 
  ⚡ Fact: **I'm quite extrovert but during Winter, i am introverted😥**
  
