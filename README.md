@@ -44,6 +44,8 @@
 
 <div align="left">
 
+- **[Issue Tracker](https://github.com/Hanhz2707/IssueTracker/)** - A web app monitoring issue which can be edit, styling, assigning to users authenticated with google's accounts
+
 - **[Game App](https://explore-game-lkwnlxv47-pham-huy-anhs-projects.vercel.app/)** - A web game app with dark mode that contains a library of different genres of games with critic score, platforms
 
 - **[Admin Dashboard](https://github.com/Hanhz2707/admin)** - A simple admin dashboard that can see company's income, customers, feedbacks, employees
