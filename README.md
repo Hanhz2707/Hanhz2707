@@ -48,7 +48,7 @@
 
 - **[Game App](https://explore-game-lkwnlxv47-pham-huy-anhs-projects.vercel.app/)** - A web game app with dark mode that contains a library of different genres of games with critic score, platforms
 
-- **[Admin Dashboard](https://github.com/Hanhz2707/admin)** - A simple admin dashboard that can see company's income, customers, feedbacks, employees
+- **[Admin Dashboard](https://adminhanhz.netlify.app/ecommerce)** - A simple admin dashboard that can see company's income, customers, feedbacks, employees
   
 - **[Jamming Project](https://hanhz2707jammingproject.surge.sh/)** - A playlist website use Spotify API for songs with React framework.
     
