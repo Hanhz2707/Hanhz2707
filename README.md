@@ -13,7 +13,7 @@
 
  🌍 Currently, I'm based in Finland
  
- 🔭 I’m working as a junior software developer intern for [Metatavu](https://metatavu.fi/) in Mikkeli, Finland 
+ 🔭 I’m working as a junior software developer intern for [COPA NORDIC](https://www.copa.fi/) in Mikkeli, Finland 
 
  ⚡ Fact: **I'm quite extrovert but during Winter, i am introverted😥**
  
